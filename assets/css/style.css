@@ -399,7 +399,9 @@ input[type=submit] {
 
   /* Misc */
   cursor: pointer;
-  background: #4aaaa5;
+  /* background: #4aaaa5; */
+  /* background: rgb(0, 97, 253); */
+  background: rgb(0, 97, 253);
 
   /* Visual */
   border: 0 none;
